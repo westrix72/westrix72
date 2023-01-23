@@ -1,4 +1,4 @@
-<img src="https://media.discordapp.net/attachments/966328547037835367/1066866129185816636/gitBackground.jpg" style="vertical-align:middle">
+<img style="display:block; margin:auto;" src="https://media.discordapp.net/attachments/966328547037835367/1066866129185816636/gitBackground.jpg">
 
 ## About me :)
 
