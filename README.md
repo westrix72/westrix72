@@ -4,7 +4,7 @@
 Hey! I'm Fill, a highly experienced professional with over 10 years in the industry. I have a strong background in software development, having spent 5 years honing my skills in this field. In addition, I also gained valuable experience as a Project Manager for the past 3 years. I'm seeking to become an accomplished Android Developer and I'm always eager to learn new things and stay up-to-date with the latest developments in my field. ⚡
 
 ## Tech Staks
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="100" width="100"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="100" width="100"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="100" width="100"/>
 
 ## My Stats!
 
