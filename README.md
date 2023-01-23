@@ -1,4 +1,4 @@
-<div display="flex" justify-content="center"><img src="https://media.discordapp.net/attachments/966328547037835367/1066866129185816636/gitBackground.jpg"</div>
+<div display="center" justify-content="center"><img src="https://media.discordapp.net/attachments/966328547037835367/1066866129185816636/gitBackground.jpg"</div>
 
 ## About me :)
 
