@@ -7,6 +7,7 @@ Hey! I'm Fill, a highly experienced professional with over 10 years in the indus
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=westrix72&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+## Socials
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/fill_rebello" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
