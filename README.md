@@ -1,5 +1,7 @@
 [![MasterHead](https://media.discordapp.net/attachments/966328547037835367/1066866129185816636/gitBackground.jpg)](https://github.com/westrix72)
 
+## Hey! I'm Fill, a highly experienced professional with over 10 years in the industry. I have a strong background in software development, having spent 5 years honing my skills in this field. In addition, I also gained valuable experience as a Project Manager for the past 3 years. I'm seeking to become an accomplished Android Developer and I'm always eager to learn new things and stay up-to-date with the latest developments in my field. ⚡
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=westrix72&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
